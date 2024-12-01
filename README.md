@@ -1,2 +1,5 @@
-# Automapki-Autoconverter-2.2.7
-Automapki Autoconverter 2.2.7
+# Automapki Autoconverter 2.2.7
+
+Autoconverter enables the import, export, and conversion among a wide range of 3D mesh and solid file formats. It offers support for numerous 3D file extensions, 3DM (Rhinoceros 3D Model), 3DS (3D-Studio File Format), 3MF (3D Manufacturing Format), AMF (Additive Manufacturing File), ASE (Autodesk Scene Export), BLEND (Blender 3D), COB (Caligari TrueSpace Object), DAE (Collada), DXF (Drawing Exchange Format), FBX (Filmbox), GLTF (GL Transmission File), IFC (The Industry Foundation Classes), IGES (Initial Graphics Exchange Specification), IV (Inventor File), JSON (CityJSON), KML (Keyhole Markup Language), KMZ (Google Earth Placemark), LWO (LightWave Object), OBJ (Alias Wavefront Object), OFF (Object File Format), PLY (Stanford Polygon Format), RAW (POV-Ray Triangles), SAT (Standard ACIS Text), SKP (Trimble SketchUp), STEP (STandardized Exchange of Product), STL (STereo-Lithography), TER (Terragen Heightmap), U3D (Universal 3D), VRML (Virtual Reality Modeling Language), X (DirectX 3D), X3D (Extensible 3D), PNG (Portable Network Graphics), GIF (Graphics Interchange Format), BMP (Bitmap File), JPEG (Joint Photographic Experts Group), USD (Universal Scene Description), and XYZ (Point Cloud).
+
+# [Download Automapki Autoconverter 2.2.7](https://developer.team/software/35079-automapki-autoconverter-227.html)
